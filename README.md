@@ -1,1 +1,3 @@
+DIFERENÇAS ENTRE OS CÓDIGOS.
+
 O Código 1 raspa apenas a primeira página do site, enquanto o Código 2 percorre múltiplas páginas, mas contém erros de indentação e não verifica o total de páginas disponíveis. O Código 3 é mais eficiente, pois descobre automaticamente o número total de páginas antes de raspar os dados. O Código 1 é limitado a uma página, o Código 2 percorre páginas fixas (com erros) e o Código 3 é dinâmico e mais robusto. Se precisar de um scraping simples, use o Código 1; para várias páginas, o Código 3 é a melhor opção. O Código 2 precisa ser corrigido antes de funcionar corretamente.
